@@ -1,0 +1,17 @@
+# Data Science & ML
+pandas
+scikit-learn==1.3.0
+joblib
+nltk
+regex
+
+# Backend & Bot
+fastapi
+"uvicorn[standard]"
+transformers[torch]
+tweepy
+requests
+python-dotenv
+
+# Frontend Demo
+streamlit
