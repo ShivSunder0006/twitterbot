@@ -1,4 +1,11 @@
-API_KEY="YOUR_TWITTER_API_KEY"
-API_KEY_SECRET="YOUR_TWITTER_API_KEY_SECRET"
-ACCESS_TOKEN="YOUR_TWITTER_ACCESS_TOKEN"
-ACCESS_TOKEN_SECRET="YOUR_TWITTER_ACCESS_TOKEN_SECRET"
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Bot state file
+last_seen_id.txt
+
+# Data files
+1_training/data/
